@@ -5,6 +5,8 @@
   </head>
   <body>
     <header>
+      <div class="container"></div>
+      <section class="filters"></section>
     </header>
     <footer>
       <p>Best School</p>

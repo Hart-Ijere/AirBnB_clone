@@ -22,4 +22,21 @@
     opacity: 1;
     transition: 0.9
 }
+.locations, amenities {
+    width: 25%;
+    paddin: 10px;
+    box-sizing: border-box;
+}
+.locations {
+    border-right: 1px solid #DDDDDD;
+}
+h3 {
+    font-weight: 600;
+}
+h4 {
+    font-weight: 400;
+    font-size: 14px;
+}
+
+    
 

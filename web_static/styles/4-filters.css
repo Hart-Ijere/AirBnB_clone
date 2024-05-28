@@ -5,3 +5,21 @@
     border: 1px solid #DDDDDD;
     border-radius: 4px;
 }
+.search-button {
+    font-size: 18px;
+    background-color: #FF5A5F;
+    color: #FFFFFF;
+    height: 48px;
+    width: 20%;
+    border-radius: 4px;
+    display: flex;
+    align-content: center;
+    padding-right: 30px;
+    opacity: 1;
+    transition: 0.3s
+}
+.search-button:hover {
+    opacity: 1;
+    transition: 0.9
+}
+
